@@ -1,0 +1,37 @@
+<categories>
+    
+    <category name="Personagem" img="img/category_thumb_personagem.png">
+        
+        <info cols="Espécie,Ocupação,Atributo,Acessório" set="0,1,1,1"></info>
+        
+        <themes>
+            <theme name="Medieval" url="content/personagem-medieval.csv" active="1"></theme>
+            <theme name="Fantasia" url="content/personagem-fantasia.csv" active="1"></theme>
+            <theme name="Natureza" url="content/personagem-natureza.csv" active="0"></theme>
+            <theme name="Cômico" url="content/personagem-comico.csv" active="0"></theme>
+<!--
+            <theme name="Sci-Fi" url="content/personagem-scifi.csv" active="0"></theme>
+            <theme name="Moderno" url="content/personagem-moderno.csv" active="0"></theme>
+-->
+        </themes>      
+        
+    </category>
+    
+<!--
+    <category name="Cenário" img="img/category_thumb_cenario.png">
+        
+        <info cols="Clima,Construções,Ação" set="1,0,1"></info>
+        
+        <themes>
+            <theme name="Medieval" url="content/cenario-medieval.csv" active="1"></theme>
+            <theme name="Fantasia" url="content/cenario-fantasia.csv" active="1"></theme>
+            <theme name="Natureza" url="content/cenario-natureza.csv" active="1"></theme>
+            <theme name="Cômico" url="content/cenario-comico.csv" active="0"></theme>
+            <theme name="Sci-Fi" url="content/cenario-scifi.csv" active="0"></theme>
+            <theme name="Moderno" url="content/cenario-moderno.csv" active="0"></theme>
+        </themes>      
+        
+    </category>
+-->
+    
+</categories>
